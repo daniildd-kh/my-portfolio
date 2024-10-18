@@ -1,0 +1,24 @@
+[
+  {
+    "themeColor": "#4b4cff",
+    "title": "Stellar Burgers",
+    "projectType": "study",
+    "projectStatus": "finished",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut enim urna. Aenean in nibh vitae dui rutrum porttitor quis finibus nulla. Sed tincidunt porta urna in pulvinar. Duis rhoncus et ipsum dignissim malesuada.",
+    "buttonText": "GitHub",
+    "completionDate": "2024",
+    "projectStack": ["TypeScript", "React", "Redux", "Jest"],
+    "imageLink": "images/stellar-burgers-snapshot.png"
+  }, 
+  {
+    "themeColor": "#4b4cff",
+    "title": "Stellar Burgers",
+    "projectType": "study",
+    "projectStatus": "finished",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut enim urna. Aenean in nibh vitae dui rutrum porttitor quis finibus nulla. Sed tincidunt porta urna in pulvinar. Duis rhoncus et ipsum dignissim malesuada.",
+    "buttonText": "GitHub",
+    "completionDate": "2024",
+    "projectStack": ["TypeScript", "React", "Redux", "Jest"],
+    "imageLink": "images/stellar-burgers-snapshot.png"
+  }
+]
